@@ -1,0 +1,77 @@
+[
+  {
+    "index": 0,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "C:\\Users\\Administrator\\Desktop\\关卡\\Blophy\\おくすり飲んで寝よ\\おくすり飲んで寝よ.mp3",
+    "musicName": "おくすり飲んで寝よ",
+    "IllustrationPath": "C:\\Users\\Administrator\\Desktop\\关卡\\Blophy\\おくすり飲んで寝よ\\おくすり飲んで寝よ.png"
+  },
+  {
+    "index": 1,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\Strike the Earth.mp3",
+    "musicName": "Strike The Earth",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\Strike the Earth.jpg"
+  },
+  {
+    "index": 2,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\姜米木沖條 - 姜米條精选集 [ Shadow ].mp3",
+    "musicName": "Shadow",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\Shadow_0.jpg"
+  },
+  {
+    "index": 3,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\宝可梦莉可 - ピッカーン！(ED4).mp3",
+    "musicName": "ピッカーン！",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\rise_pick_up.jpg"
+  },
+  {
+    "index": 4,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\新建文件夹\\雨云杰克JackCloudW - 5-X 梦想永不歇 Dreams Don't Stop cut.mp3",
+    "musicName": "Dreams Don't Stop",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\dream_don_t_stop.jpg"
+  }
+]
