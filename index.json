@@ -73,5 +73,20 @@
     "musicPath": "D:\\CloudMusic\\新建文件夹\\雨云杰克JackCloudW - 5-X 梦想永不歇 Dreams Don't Stop cut.mp3",
     "musicName": "Dreams Don't Stop",
     "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\dream_don_t_stop.jpg"
+  },
+  {
+    "index": 5,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\StormApproach-163 - ［第八章］VorpΛlize.mp3",
+    "musicName": "VorpΛlize",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\vorp.jpg"
   }
 ]
