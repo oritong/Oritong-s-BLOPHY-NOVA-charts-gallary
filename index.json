@@ -88,5 +88,20 @@
     "musicPath": "D:\\CloudMusic\\电台节目\\StormApproach-163 - ［第八章］VorpΛlize.mp3",
     "musicName": "VorpΛlize",
     "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\vorp.jpg"
+  },
+  {
+    "index": 6,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\姜米木沖條 - 单曲 [ El Condor Pasa ].mp3",
+    "musicName": "El Condor Pasa",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\EL.jpg"
   }
 ]
