@@ -103,5 +103,20 @@
     "musicPath": "D:\\CloudMusic\\电台节目\\姜米木沖條 - 单曲 [ El Condor Pasa ].mp3",
     "musicName": "El Condor Pasa",
     "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\EL.jpg"
+  },
+  {
+    "index": 7,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\pomi\\火宴絶賛開催ちゅう.mp3",
+    "musicName": "火宴絶賛開催ちゅう",
+    "IllustrationPath": "D:\\CloudMusic\\电台节目\\pomi\\火宴絶賛開催ちゅう.jpg"
   }
 ]
