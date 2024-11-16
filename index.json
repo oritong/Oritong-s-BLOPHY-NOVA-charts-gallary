@@ -118,5 +118,50 @@
     "musicPath": "D:\\CloudMusic\\电台节目\\pomi\\火宴絶賛開催ちゅう.mp3",
     "musicName": "火宴絶賛開催ちゅう",
     "IllustrationPath": "D:\\CloudMusic\\电台节目\\pomi\\火宴絶賛開催ちゅう.jpg"
+  },
+  {
+    "index": 8,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "F:\\BlophyNovaEdit\\BlophyNovaEdit_Data\\StreamingAssets\\8\\Music\\Music.mp3",
+    "musicName": "Like",
+    "IllustrationPath": "F:\\BlophyNovaEdit\\BlophyNovaEdit_Data\\StreamingAssets\\8\\Illustration\\Background.jpg"
+  },
+  {
+    "index": 9,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\pomi\\ぴちぱち！揚歩美！SOMEBODY！サンバ.mp3",
+    "musicName": "ぴちぱち！揚歩美！SOMEBODY！サンバ",
+    "IllustrationPath": "D:\\CloudMusic\\电台节目\\pomi\\ぴちぱち！揚歩美！SOMEBODY！サンバ.jpg"
+  },
+  {
+    "index": 10,
+    "metaData": {
+      "musicName": "",
+      "musicWriter": "",
+      "musicBpmText": "",
+      "artWriter": "",
+      "chartWriter": "",
+      "chartLevel": "",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\姜米木沖條 - 单曲 [ Dead Soul ].mp3",
+    "musicName": "Dead Soul",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\Dead Soul.jpg"
   }
 ]
