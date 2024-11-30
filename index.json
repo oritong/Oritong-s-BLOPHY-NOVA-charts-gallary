@@ -5,8 +5,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -20,8 +21,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -35,8 +37,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -50,8 +53,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -65,8 +69,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -80,8 +85,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -95,8 +101,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -110,8 +117,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -125,8 +133,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -140,8 +149,9 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
@@ -155,13 +165,62 @@
       "musicName": "",
       "musicWriter": "",
       "musicBpmText": "",
-      "artWriter": "",
       "chartWriter": "",
+      "artWriter": "",
+      "chartHard": 0,
       "chartLevel": "",
       "description": ""
     },
     "musicPath": "D:\\CloudMusic\\电台节目\\姜米木沖條 - 单曲 [ Dead Soul ].mp3",
     "musicName": "Dead Soul",
     "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\Dead Soul.jpg"
+  },
+  {
+    "index": 14,
+    "metaData": {
+      "musicName": "The Chariot ~REVIIVAL~",
+      "musicWriter": "Attoclef",
+      "musicBpmText": "",
+      "chartWriter": "是哦里冻喵！",
+      "artWriter": "翠冷兮",
+      "chartHard": 2,
+      "chartLevel": "8.6",
+      "description": "哦里冻看了本子里面提到了战车之后的发电之作"
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\姜米木沖條 - 第八章 [ The Chariot ~REVIIVAL~ ].mp3",
+    "musicName": "The Chariot ~REVIIVAL~",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\战车.png"
+  },
+  {
+    "index": 15,
+    "metaData": {
+      "musicName": "INTERNET OVERDOSE",
+      "musicWriter": "Aiobahn feat.KOTOKO",
+      "musicBpmText": "",
+      "chartWriter": "NEEDY ORITONG OVERDOSE",
+      "artWriter": "WSS playground",
+      "chartHard": 2,
+      "chartLevel": "7.3",
+      "description": "哦里冻的坑之一，总会填完的（真的吗"
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\INTERNET OVERDOSE(互联网重度依赖).mp3",
+    "musicName": "INTERNET OVERDOSE",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\internet overdose.jpg"
+  },
+  {
+    "index": 13,
+    "metaData": {
+      "musicName": "INTERNET YAMERO",
+      "musicWriter": "Aiobahn feat.KOTOKO",
+      "musicBpmText": "",
+      "chartWriter": "oritong",
+      "artWriter": "こかむも お久しぶり",
+      "chartHard": 2,
+      "chartLevel": "7.2",
+      "description": "发电作之二"
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\Blokura - 1692 INTERNET YAMERO.mp3",
+    "musicName": "INTERNET YAMERO",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\internet yamero.jpg"
   }
 ]
