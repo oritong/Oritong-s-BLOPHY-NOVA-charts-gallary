@@ -16,6 +16,22 @@
     "IllustrationPath": "C:\\Users\\Administrator\\Desktop\\关卡\\Blophy\\おくすり飲んで寝よ\\おくすり飲んで寝よ.png"
   },
   {
+    "index": 12,
+    "metaData": {
+      "musicName": "Rush-Hour",
+      "musicWriter": "litmus*",
+      "musicBpmText": "",
+      "chartWriter": "oritong*",
+      "artWriter": "litmus*",
+      "chartHard": 2,
+      "chartLevel": "7.1",
+      "description": "哦里冻的发电第二作，写的时候磕了点马娘"
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\Blokura - 1657 Rush-Hour.mp3",
+    "musicName": "Rush-Hour",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\rush-hour.jpg"
+  },
+  {
     "index": 1,
     "metaData": {
       "musicName": "",
@@ -222,5 +238,37 @@
     "musicPath": "D:\\CloudMusic\\电台节目\\Blokura - 1692 INTERNET YAMERO.mp3",
     "musicName": "INTERNET YAMERO",
     "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\internet yamero.jpg"
+  },
+  {
+    "index": 16,
+    "metaData": {
+      "musicName": "Flashdance",
+      "musicWriter": "litmus*",
+      "musicBpmText": "",
+      "chartWriter": "oritong",
+      "artWriter": "litmus*",
+      "chartHard": 2,
+      "chartLevel": "6.2",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\NO24131131 - Flashdance - litmus.mp3",
+    "musicName": "Flashdance",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\flashdance.jpg"
+  },
+  {
+    "index": 11,
+    "metaData": {
+      "musicName": "Enchanted Love",
+      "musicWriter": "linear ring",
+      "musicBpmText": "",
+      "chartWriter": "FallingLine",
+      "artWriter": "BigheadCrusher",
+      "chartHard": 2,
+      "chartLevel": "11?",
+      "description": ""
+    },
+    "musicPath": "C:\\Users\\小胡的电脑\\Downloads\\Music\\enchanted love.mp3",
+    "musicName": "Enchanted Love",
+    "IllustrationPath": "C:\\Users\\小胡的电脑\\Downloads\\enchanted love.jpg"
   }
 ]
