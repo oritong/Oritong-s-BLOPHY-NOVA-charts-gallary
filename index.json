@@ -16,6 +16,38 @@
     "IllustrationPath": "C:\\Users\\Administrator\\Desktop\\关卡\\Blophy\\おくすり飲んで寝よ\\おくすり飲んで寝よ.png"
   },
   {
+    "index": 18,
+    "metaData": {
+      "musicName": "キンダン",
+      "musicWriter": "黒魔 feat.PochiKorone (oritong's cut ver.)",
+      "musicBpmText": "",
+      "chartWriter": "oritong",
+      "artWriter": "上倉eku",
+      "chartHard": 2,
+      "chartLevel": "9.2",
+      "description": "oritong居然正常写谱子了，这简直是不可思议（老手老鼠 精选集 第一首）"
+    },
+    "musicPath": "D:\\CloudMusic\\新建文件夹\\fl\\キンダン\\Backup\\キンダン.mp3",
+    "musicName": "キンダン",
+    "IllustrationPath": "D:\\CloudMusic\\电台节目\\pomi\\キンダン.jpg"
+  },
+  {
+    "index": 19,
+    "metaData": {
+      "musicName": "Designant",
+      "musicWriter": "Designant.",
+      "musicBpmText": "",
+      "chartWriter": "oritong.",
+      "artWriter": "616",
+      "chartHard": 2,
+      "chartLevel": "12.7",
+      "description": "我也要设计蚂蚁"
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\Arcaea_Team - Designant.mp3",
+    "musicName": "Designant",
+    "IllustrationPath": "F:\\马老弟\\beatmap\\Designant. BpmChange(1)\\2_lephon_1.jpg"
+  },
+  {
     "index": 12,
     "metaData": {
       "musicName": "Rush-Hour",
@@ -270,5 +302,53 @@
     "musicPath": "C:\\Users\\小胡的电脑\\Downloads\\Music\\enchanted love.mp3",
     "musicName": "Enchanted Love",
     "IllustrationPath": "C:\\Users\\小胡的电脑\\Downloads\\enchanted love.jpg"
+  },
+  {
+    "index": 17,
+    "metaData": {
+      "musicName": "おべんきょうたいむ",
+      "musicWriter": "litmus* feat.足立レイ",
+      "musicBpmText": "",
+      "chartWriter": "oritong*",
+      "artWriter": "KeiuO",
+      "chartHard": 2,
+      "chartLevel": "5.2",
+      "description": "实验谱"
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\鸫咪 - 【足立レイ】おべんきょうたいむ【litmus】 #FEATコンテスト2024参加曲.mp3",
+    "musicName": "おべんきょうたいむ",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\おべんきょうたいむ.jpg"
+  },
+  {
+    "index": 20,
+    "metaData": {
+      "musicName": "迷路中",
+      "musicWriter": "面包P (feat.PochiKorone)",
+      "musicBpmText": "",
+      "chartWriter": "oritong",
+      "artWriter": "犬プール",
+      "chartHard": 1,
+      "chartLevel": "5.7",
+      "description": "我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了"
+    },
+    "musicPath": "D:\\CloudMusic\\新建文件夹\\迷路中.mp3",
+    "musicName": "迷路中",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\迷路中.jpg"
+  },
+  {
+    "index": 21,
+    "metaData": {
+      "musicName": "凛冬之舞",
+      "musicWriter": "OMGMG vs.MAPLEX vs.Choefeker",
+      "musicBpmText": "",
+      "chartWriter": "oritong",
+      "artWriter": "RYCEAM",
+      "chartHard": 2,
+      "chartLevel": "11.2",
+      "description": ""
+    },
+    "musicPath": "D:\\CloudMusic\\电台节目\\二倍根号叁 - 凛冬之舞 – OMGMG vs.MAPLEX vs.Choefeker.mp3",
+    "musicName": "凛冬之舞",
+    "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\Freaky_Undulations_0.jpg"
   }
 ]
