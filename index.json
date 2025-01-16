@@ -16,6 +16,38 @@
         "IllustrationPath": "C:\\Users\\Administrator\\Desktop\\关卡\\Blophy\\おくすり飲んで寝よ\\おくすり飲んで寝よ.png"
     },
     {
+        "index": 17,
+        "metaData": {
+            "musicName": "おべんきょうたいむ",
+            "musicWriter": "litmus* feat.足立レイ",
+            "musicBpmText": "",
+            "chartWriter": "oritong*",
+            "artWriter": "KeiuO",
+            "chartHard": 2,
+            "chartLevel": "5.2",
+            "description": "实验谱"
+        },
+        "musicPath": "D:\\CloudMusic\\电台节目\\鸫咪 - 【足立レイ】おべんきょうたいむ【litmus】 #FEATコンテスト2024参加曲.mp3",
+        "musicName": "おべんきょうたいむ",
+        "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\おべんきょうたいむ.jpg"
+    },
+    {
+        "index": 20,
+        "metaData": {
+            "musicName": "迷路中",
+            "musicWriter": "面包P (feat.PochiKorone)",
+            "musicBpmText": "",
+            "chartWriter": "oritong",
+            "artWriter": "犬プール",
+            "chartHard": 1,
+            "chartLevel": "5.7",
+            "description": "我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了"
+        },
+        "musicPath": "D:\\CloudMusic\\新建文件夹\\迷路中.mp3",
+        "musicName": "迷路中",
+        "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\迷路中.jpg"
+    },
+    {
         "index": 23,
         "metaData": {
             "musicName": "未解決な想い",
@@ -350,37 +382,5 @@
         "musicPath": "C:\\Users\\小胡的电脑\\Downloads\\Music\\enchanted love.mp3",
         "musicName": "Enchanted Love",
         "IllustrationPath": "C:\\Users\\小胡的电脑\\Downloads\\enchanted love.jpg"
-    },
-    {
-        "index": 17,
-        "metaData": {
-            "musicName": "おべんきょうたいむ",
-            "musicWriter": "litmus* feat.足立レイ",
-            "musicBpmText": "",
-            "chartWriter": "oritong*",
-            "artWriter": "KeiuO",
-            "chartHard": 2,
-            "chartLevel": "5.2",
-            "description": "实验谱"
-        },
-        "musicPath": "D:\\CloudMusic\\电台节目\\鸫咪 - 【足立レイ】おべんきょうたいむ【litmus】 #FEATコンテスト2024参加曲.mp3",
-        "musicName": "おべんきょうたいむ",
-        "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\おべんきょうたいむ.jpg"
-    },
-    {
-        "index": 20,
-        "metaData": {
-            "musicName": "迷路中",
-            "musicWriter": "面包P (feat.PochiKorone)",
-            "musicBpmText": "",
-            "chartWriter": "oritong",
-            "artWriter": "犬プール",
-            "chartHard": 1,
-            "chartLevel": "5.7",
-            "description": "我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了我没活了"
-        },
-        "musicPath": "D:\\CloudMusic\\新建文件夹\\迷路中.mp3",
-        "musicName": "迷路中",
-        "IllustrationPath": "D:\\CloudMusic\\新建文件夹\\迷路中.jpg"
     }
 ]
